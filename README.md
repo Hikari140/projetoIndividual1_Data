@@ -1,1 +1,1 @@
-# projetoIndividual1_Data
+# Projeto Individual M1 - Data Analytics
